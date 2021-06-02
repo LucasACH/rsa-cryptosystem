@@ -8,7 +8,6 @@ characters = [character for character in string.printable]
 
 def convert(decryptedNumericMessage):
     message = "" 
-  
     return (message.join(decryptedNumericMessage))
 
 
