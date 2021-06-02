@@ -5,18 +5,36 @@
     <img src="https://avatars3.githubusercontent.com/u/73149577?s=460&u=1baa1defb9904624d7aad76ec37dc76d2b230c0a&v=4" alt="Logo" width="100" height="100">
   </a>
 
-  <h3 align="center">Spotify Voice Control</h3>
+  <h3 align="center">RSA Cryptosystem</h3>
 
   <p align="center">
-    Manage spotify playback state with voice control.
+    Simple DEMO for further understanding.
     <br />
-    <a href="https://github.com/LucasACH/spotify-virtual-assistant"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/LucasACH/rsa-cryptosystem"><strong>Explore the docs »</strong></a>
   </p>
 </p>
 
 <!-- PREREQUISITES -->
 
 ### Prerequisites
+
+* [sympy](https://pypi.org/project/sympy/) 
+* [progress](https://pypi.org/project/progress/)
+
+### Installation
+
+1. Install dependencies
+ ``` pip install sympy progress ```
+  
+3. Clone the repo
+   ```sh
+   git clone https://github.com/LucasACH/rsa-cryptosystem.git
+   ```
+   
+<!-- USAGE EXAMPLES -->
+## Usage
+
+To start the DEMO ``` python Crypt_RSA.py ```
 
 <!-- CONTACT -->
 
